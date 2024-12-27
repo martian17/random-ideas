@@ -1,0 +1,18 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  binary-circuit:
+    specifier: github:martian17/hd.js
+    version: github.com/martian17/hd.js/0ad4073674d8ad819ba27e653f2c6736a0c3fcf1
+
+packages:
+
+  github.com/martian17/hd.js/0ad4073674d8ad819ba27e653f2c6736a0c3fcf1:
+    resolution: {tarball: https://codeload.github.com/martian17/hd.js/tar.gz/0ad4073674d8ad819ba27e653f2c6736a0c3fcf1}
+    name: binary-circuit
+    version: 1.0.0
+    dev: false

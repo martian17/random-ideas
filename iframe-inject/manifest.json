@@ -1,0 +1,21 @@
+{
+  "author": "Yutaro Yoshii",
+  "content_scripts": [
+    {
+      "matches": ["https://*.account.rakuten.com/*"],
+      "all_frames": true,
+      "js": ["content-script.js"]
+    }
+  ],
+  "description": "Adds custom shortcuts for switching tabs.",
+  "icons": {
+    "128": "images/icon_128.png",
+    "16": "images/icon_16.png",
+    "48": "images/icon_48.png"
+  },
+  "manifest_version": 3,
+  "name": "Iframe-inject",
+  "permissions": [],
+  "short_name": "Iframe-inject",
+  "version": "1.0.0"
+}

@@ -1,0 +1,18 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  htmlgen:
+    specifier: github:martian17/htmlgen
+    version: github.com/martian17/htmlgen/20285340c5f351fa860e4bb889b6b44f4e3cccf7
+
+packages:
+
+  github.com/martian17/htmlgen/20285340c5f351fa860e4bb889b6b44f4e3cccf7:
+    resolution: {tarball: https://codeload.github.com/martian17/htmlgen/tar.gz/20285340c5f351fa860e4bb889b6b44f4e3cccf7}
+    name: htmlgen
+    version: 2.0.0
+    dev: false

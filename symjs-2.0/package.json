@@ -1,0 +1,26 @@
+{
+  "name": "symjs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Symbolic Manipulator for Hobbyist Mathematicians",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "imports": {
+    "#root/*": "./dist/*"
+  },
+  "keywords": [
+    "math",
+    "symbol"
+  ],
+  "author": "Yutaro Yoshii",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

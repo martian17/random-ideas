@@ -1,0 +1,3 @@
+const cappedCubic = function(points, ){
+    // 
+}

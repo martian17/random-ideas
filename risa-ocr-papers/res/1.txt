@@ -1,0 +1,44 @@
+git ay
+td
+AthenaSummary
+e
+
+Lecture 1 — Do Markets Shape Our Morals?
+
+Cowen, T., & Tabarrok, A. (2015). Modern principles of economics, Chapter
+
+24, Macmillan International Higher Education.
+
+Markets work best when traders know exactly what is being traded. When this is the case, markets
+will attract both buyers and sellers because each side expects trade to be mutually profitable.
+Asymmetric information is defined as when one party in an exchange has more or better information
+than the other party.
+
+The principal-agent problem occurs when one party has different intentions than the other. How can
+a principal (employer) incentivize an agent (employee) to work in the principal's interest even when
+the agent has information that the principal does not?
+
+Moral hazard is when an agent tries to exploit an information advantage in a dishonest or undesirable
+way.
+There are two solutions to asymmetric information and moral hazard problems:
+
+1. Provide more information, thereby reducing the asymmetry.
+
+2. Reduce the incentive for the knowledgeable party to exploit their information advantage.
+
+Overcoming Moral Hazard by Providing More Information
+
+The internet has played a big role in helping overcome asymmetric information by making it easier for
+buyers to pool their knowledge. The internet has increased the value of having a good reputation.
+Reviews have two advantages. They make it easier to avoid deceitful sellers and they raise the cost to
+sellers of exploiting their information advantage. Nevertheless, consumer reviews can be easily faked
+to make one’s own store look better, or a rival store look inferior. The general problem is that the more
+inion ce becomes, the greater the incentive to fake that rating or niente it. Rating
+
+p r sce are being rated. Rating companies would have better incentives if they
+gain, the buyers will not pay because of free rider problems (an
+not pay). In general, information problems are difficult to solve
+
+nce, lawyers are
+pically a third of
+

@@ -1,0 +1,288 @@
+{
+  "page": {
+    "totalElements": 8,
+    "totalPages": 1,
+    "records": [
+      {
+        "id": "cbf185bb-2b09-475e-9355-9039b534cf87",
+        "easyId": "622565434324334",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-10-30T13:13:07.535311",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "dasdasds@mail.com",
+        "ipAddress": "12344324",
+        "userAgent": "Mozilla/5.0",
+        "isFraudAttempt": true,
+        "remark": "some remark",
+        "submissionsByActionId": null
+      },
+      {
+        "id": "7a4ee3ff-0786-4d07-a42f-64a9c8682149",
+        "easyId": "959",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-10-30T13:52:23.10208",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "dasdasds@mail.com",
+        "ipAddress": "12344324",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "isFraudAttempt": true,
+        "remark": "some remark",
+        "submissionsByActionId": null
+      },
+      {
+        "id": "b358f817-8531-4794-a3e2-4f3473c48553",
+        "easyId": "940",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-10-30T13:52:35.850476",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "dasdasds@mail.com",
+        "ipAddress": "12344324",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "isFraudAttempt": true,
+        "remark": "some remark",
+        "submissionsByActionId": null
+      },
+      {
+        "id": "ebca442c-1948-4d91-9cd5-98eb1498b0af",
+        "easyId": "226",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-11-02T16:32:20.757477",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "dasdasds@mail.com",
+        "ipAddress": "12344324",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "isFraudAttempt": true,
+        "remark": "some remark",
+        "submissionsByActionId": null
+      },
+      {
+        "id": "0eff2e6b-5388-4f91-8057-1553ed58026d",
+        "easyId": "345",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-11-02T16:47:21.726928",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "dasdasds@mail.com",
+        "ipAddress": "12344324",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "isFraudAttempt": true,
+        "remark": "some remark",
+        "submissionsByActionId": null
+      },
+      {
+        "id": "81d8a0c6-e972-4eea-a288-36270113ea20",
+        "easyId": "2146827913",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-11-08T07:42:57.962367",
+        "firstName": "Gordon",
+        "lastName": "Ramsay",
+        "email": "450c92555775@au.com",
+        "ipAddress": "185.146.71.230",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+        "isFraudAttempt": null,
+        "remark": null,
+        "submissionsByActionId": {
+          "19b440eb-cbad-4618-a14f-f096f8c85c9a": {
+            "id": "d7864350-27cb-41a5-af24-1a931eef7137",
+            "content": []
+          },
+          "51a7258f-190d-4b98-9499-e3faeb7c183a": {
+            "id": "0294adff-586e-456a-941b-8887cadd39cf",
+            "content": [
+              {
+                "id": "f6b61c48-19eb-45db-a498-0af644f2257f",
+                "value": true
+              }
+            ]
+          },
+          "86899ca7-c650-4052-a150-eaf1d6d7a478": {
+            "id": "625df5d7-0867-4955-9b77-9fa52b97c1a3",
+            "content": [
+              {
+                "id": "2885c419-7c0c-4341-a4ed-40ad1589daa0",
+                "value": "true"
+              },
+              {
+                "id": "e7b0a96e-ccbf-4a5d-a2f6-3c5a46641608",
+                "value": [
+                  "carbon_dioxide",
+                  "water_vapor"
+                ]
+              },
+              {
+                "id": "a7ff3b24-54cc-48d1-b3de-eb3b90d61662",
+                "value": 5
+              },
+              {
+                "id": "3ceb50d9-31bd-4cb9-bfa5-719ccec90f06",
+                "value": "asdfasdfasdfasdfasdfasdfasdfasdfasdfsddddddddddffffffasdasdf\nsdfasdfad"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "e51ba317-b64c-4160-b4c5-de33a1c9af32",
+        "easyId": "2146827915",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-11-08T09:35:17.165797",
+        "firstName": "Gordon",
+        "lastName": "Ramsay",
+        "email": "f23e873bb9f9@au.com",
+        "ipAddress": "185.146.71.230",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+        "isFraudAttempt": null,
+        "remark": null,
+        "submissionsByActionId": {
+          "19b440eb-cbad-4618-a14f-f096f8c85c9a": {
+            "id": "4857907c-c956-4638-8166-2ae974d52311",
+            "content": []
+          },
+          "51a7258f-190d-4b98-9499-e3faeb7c183a": {
+            "id": "52ca8554-5786-4d1b-bebb-54916e7c57c7",
+            "content": [
+              {
+                "id": "f6b61c48-19eb-45db-a498-0af644f2257f",
+                "value": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "33c74e6f-dcac-4990-a2fd-9802ffcff63f",
+        "easyId": "2146827938",
+        "eventType": "REGISTRATION",
+        "createdAt": "2023-11-09T15:10:17.01971",
+        "firstName": "Gordon",
+        "lastName": "Ramsay",
+        "email": "fc7c99253d68@au.com",
+        "ipAddress": "185.146.71.230",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+        "isFraudAttempt": null,
+        "remark": null,
+        "submissionsByActionId": {
+          "19b440eb-cbad-4618-a14f-f096f8c85c9a": {
+            "id": "40e84742-60a8-43c4-a518-56d93a7158d3",
+            "content": []
+          },
+          "51a7258f-190d-4b98-9499-e3faeb7c183a": {
+            "id": "e18ddd40-55c2-4aa0-82c7-f4f5fa3a2afb",
+            "content": [
+              {
+                "id": "f6b61c48-19eb-45db-a498-0af644f2257f",
+                "value": true
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "links": {
+      "next": null,
+      "prev": null
+    }
+  },
+  "actions": [
+    {
+      "id": "19b440eb-cbad-4618-a14f-f096f8c85c9a",
+      "type": "LOGIN_CHECK",
+      "label": "Log In or Sign up",
+      "data": {
+        "description": "Thank you for creating an account! Please click on “Continue” to proceed."
+      }
+    },
+    {
+      "id": "51a7258f-190d-4b98-9499-e3faeb7c183a",
+      "type": "OPT_IN",
+      "label": "Accept T&Cs",
+      "data": {
+        "fields": [
+          {
+            "id": "f6b61c48-19eb-45db-a498-0af644f2257f",
+            "type": "checkbox",
+            "label": "I have read, understood and agreed to the campaign's <a class='external-link' href='https://global.rakuten.com/corp/event/gogreen/doc/terms-and-conditions-en.pdf' target='_blank'>Terms & Conditions</a> and <a class='external-link' href='https://global.rakuten.com/corp/event/gogreen/doc/privacy-en.pdf' target='_blank'>Rakuten's Privacy Policy</a>.",
+            "required": true
+          },
+          {
+            "id": "5afa6360-efab-464b-8347-2c6a4ce7d126",
+            "type": "checkbox",
+            "label": "I'd like to receive email notifications about future campaigns from Rakuten Group, Inc.",
+            "required": false
+          }
+        ],
+        "description": "Please accept the Terms & Conditions and Privacy Policy to take part in the campaign and stand a chance to win one of the amazing prizes!"
+      }
+    },
+    {
+      "id": "86899ca7-c650-4052-a150-eaf1d6d7a478",
+      "type": "UNIFIED",
+      "label": "Answer the quiz",
+      "data": {
+        "fields": [
+          {
+            "q": "1. Switching to use only LEDs at home can make a huge difference in electricity usage.",
+            "id": "2885c419-7c0c-4341-a4ed-40ad1589daa0",
+            "ans": "asdf",
+            "opts": [
+              {
+                "label": "True",
+                "value": "true"
+              },
+              {
+                "label": "False",
+                "value": "false"
+              }
+            ],
+            "type": "SCQ",
+            "required": true
+          },
+          {
+            "q": "2. Which of the following is considered to be greenhouse gas? (Multiple choice)",
+            "id": "e7b0a96e-ccbf-4a5d-a2f6-3c5a46641608",
+            "opts": [
+              {
+                "label": "Carbon Dioxide",
+                "value": "carbon_dioxide"
+              },
+              {
+                "label": "Tungsten Carbide",
+                "value": "tungsten_carbide"
+              },
+              {
+                "label": "Methane",
+                "value": "Methane"
+              },
+              {
+                "label": "Water Vapor",
+                "value": "water_vapor"
+              }
+            ],
+            "type": "MCQ",
+            "required": true
+          },
+          {
+            "q": "3. On the scale of one to ten, how likely are you to recommend Rakuten to friend?",
+            "id": "a7ff3b24-54cc-48d1-b3de-eb3b90d61662",
+            "type": "SCALE",
+            "range": 10,
+            "required": true
+          },
+          {
+            "q": "4. What is Elvis operator in Kotlin? Explain in under 100 letters",
+            "id": "3ceb50d9-31bd-4cb9-bfa5-719ccec90f06",
+            "type": "FEEDBACK",
+            "required": true,
+            "maxCharacters": 400,
+            "minCharacters": 5
+          }
+        ],
+        "description": "Answer the Sustainability Quiz below to the best of your ability. The correct answers can be viewed after you have submitted your answers. (*=Required)"
+      }
+    }
+  ]
+}

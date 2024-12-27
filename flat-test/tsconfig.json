@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "declaration": false,
+    "outDir": "dist/",
+    "lib": [
+      "es7"
+    ]
+  },
+  "include": [
+    "src/"
+  ]
+}

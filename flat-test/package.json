@@ -1,0 +1,23 @@
+{
+  "name": "flat-test",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doit": "pnpm update && tsc && node dist/index.js",
+    "run": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/node": "^20.6.4",
+    "fft-js": "^0.0.12",
+    "flat-fft": "github:martian17/flat-fft"
+  }
+}

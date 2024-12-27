@@ -1,0 +1,45 @@
+i kets that are current!
+i iti ine circumstances, so that mar i
+. interpretation is sensitive to changing
+: ae ae emerge under other conditions as perfectly acceptable My the reverse).
+5. It must be admitted that other accounts of noxious markets are possible.
+
+Nevertheless, the author concludes by saying that her theory provides a useful starting point for
+thinking about moral matters involved in markets.
+
+Awad, E., Dsouza, S., Kim, R., Schulz, J., Henrich, J., Shariff, A., & Rahwan, |.
+
+(2018). The moral machine experiment. Nature, 563(7729), 59-64
+
+Abstract ; ; '
+
+The article is based on concern about developments of Al and societal expectations about its moral
+decisions. The Moral Machine experiment aimed to address the challenge of determining societal
+
+expectations for the ethical principles that should guide machine behavior, particularly in autonomous
+vehicles.
+
+Introduction
+
+Today machines we are using are not only used to promote wellbeing but also distribute harm that
+cannot be eliminated. Unavoidable harm scenario is a car crash scenario. Here autonomous (driverless)
+
+vehicles would need to decide between different stakeholders on the road. Regardless, of how rare
+these cases are, ethical principles should be established.
+
+The challenge arises and cannot be solved by one party only. First challenge is high dimensionality of
+the problem: thousands of combinations of preferences must be analyzed which challenges
+conventional data collection methods. Secondly, to make universal ethical principles for Al we need to
+understand local preferences, which again requires substantial sample size.
+
+Hence, in respon \wad et al. (2018) designed the Moral
+‘serious game’ fo collecting | rge-scale data on how peopl
+dilemmas in the f unavoidable acci
+
+Machine experiment — multilingual online
+© want autonomous vehicles to solve moral
+
+Experimen’ : ‘ :
+: i fn (versus pets), staying on course (versus swerving),
+lives (Versus fewer lives), sparing men (versus
+

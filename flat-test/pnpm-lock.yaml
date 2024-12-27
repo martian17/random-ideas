@@ -1,0 +1,62 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@types/node':
+    specifier: ^20.6.4
+    version: 20.6.4
+  fft-js:
+    specifier: ^0.0.12
+    version: 0.0.12
+  flat-fft:
+    specifier: github:martian17/flat-fft
+    version: github.com/martian17/flat-fft/ed8012c171f0446f9574eb08876ac3d87ac5646d
+
+devDependencies:
+  typescript:
+    specifier: ^5.2.2
+    version: 5.2.2
+
+packages:
+
+  /@types/node@20.6.4:
+    resolution: {integrity: sha512-nU6d9MPY0NBUMiE/nXd2IIoC4OLvsLpwAjheoAeuzgvDZA1Cb10QYg+91AF6zQiKWRN5i1m07x6sMe0niBznoQ==}
+    dev: false
+
+  /bit-twiddle@1.0.2:
+    resolution: {integrity: sha512-B9UhK0DKFZhoTFcfvAzhqsjStvGJp9vYWf3+6SNTtdSQnvIgfkHbgHrg/e4+TH71N2GDu8tpmCVoyfrL1d7ntA==}
+    dev: false
+
+  /commander@2.7.1:
+    resolution: {integrity: sha512-5qK/Wsc2fnRCiizV1JlHavWrSGAXQI7AusK423F8zJLwIGq8lmtO5GmO8PVMrtDUJMwTXOFBzSN6OCRD8CEMWw==}
+    engines: {node: '>= 0.6.x'}
+    dependencies:
+      graceful-readlink: 1.0.1
+    dev: false
+
+  /fft-js@0.0.12:
+    resolution: {integrity: sha512-nLOa0/SYYnN2NPcLrI81UNSPxyg3q0sGiltfe9G1okg0nxs5CqAwtmaqPQdGcOryeGURaCoQx8Y4AUkhGTh7IQ==}
+    engines: {node: '>=0.12.0'}
+    dependencies:
+      bit-twiddle: 1.0.2
+      commander: 2.7.1
+    dev: false
+
+  /graceful-readlink@1.0.1:
+    resolution: {integrity: sha512-8tLu60LgxF6XpdbK8OW3FA+IfTNBn1ZHGHKF4KQbEeSkajYw5PlYJcKluntgegDPTg8UkHjpet1T82vk6TQ68w==}
+    dev: false
+
+  /typescript@5.2.2:
+    resolution: {integrity: sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: true
+
+  github.com/martian17/flat-fft/ed8012c171f0446f9574eb08876ac3d87ac5646d:
+    resolution: {tarball: https://codeload.github.com/martian17/flat-fft/tar.gz/ed8012c171f0446f9574eb08876ac3d87ac5646d}
+    name: flat-fft
+    version: 2.0.0
+    dev: false
